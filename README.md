@@ -27,10 +27,10 @@ ClientEase is a modern, full-stack CRM (Customer Relationship Management) web ap
 
 ## 📸 Screenshots
 
-> ![Customer Dashboard](./screenshots/customer-dashboard.png)  
-> ![My Tickets](./screenshots/my-tickets.png)  
-> ![Admin Panel](./screenshots/admin-panel.png)  
-> ![Profile Section](./screenshots/profile.png)
+> ![Customer Dashboard](C:\Users\gunja\OneDrive\Pictures\Screenshots1)  
+> ![My Tickets](C:\Users\gunja\OneDrive\Pictures\Screenshots2)  
+> ![Admin Panel](C:\Users\gunja\OneDrive\Pictures\Screenshots3)  
+> ![Profile Section](C:\Users\gunja\OneDrive\Pictures\Screenshots4)
 
 ---
 
@@ -45,7 +45,7 @@ ClientEase is a modern, full-stack CRM (Customer Relationship Management) web ap
 
 ```bash
 # Clone the repository
-git clone https://github.com/gunjanpandey/ClientEase-CRM.git
+https://github.com/Gunjan-pandey85340/CRM_Project
 
 # Navigate into the project folder
 cd ClientEase-CRM
