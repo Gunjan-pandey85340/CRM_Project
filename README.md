@@ -83,8 +83,8 @@ Check out the live deployed version here:
 ## 📫 Contact
 
 Created with ❤️ by **Gunjan Pandey**  
-📧 Email: gunjanpandey@example.com  
-🔗 GitHub: [github.com/gunjanpandey](https://github.com/gunjanpandey)
+📧 Email: gunjanpandey8979@example.com  
+🔗 GitHub: https://github.com/Gunjan-pandey85340/CRM_Project/edit/main
 
 ---
 
